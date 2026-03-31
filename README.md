@@ -1,6 +1,6 @@
 # digital-literacy-project# 
 
-## 👤 Student Details
+## Student Details
 - **Name:** Shubham Patel  
 - **Registration Number:** 25BCE10763  
 - **Branch:** B.Tech CSE Core 
@@ -8,13 +8,13 @@
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 This project is a part of the CSE0001 – Digital Literacy course at VIT Bhopal University.  
 The objective of this project is to develop awareness about digital literacy and build essential digital skills such as creating a professional online presence, practicing safe internet usage, and understanding cyber security.
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 - **report/** → Final Project Report (PDF)  
 - **task-1-presentation/** → Infographic on Digital Literacy  
@@ -25,7 +25,7 @@ The objective of this project is to develop awareness about digital literacy and
 
 ---
 
-## 🧠 Task Summary
+## Task Summary
 
 ### 🔹 Task 1: Infographic
 Created a digital literacy awareness infographic using Canva to highlight safe and responsible use of digital tools.
@@ -44,13 +44,13 @@ Developed a case study on phishing and created a prevention checklist for online
 
 ---
 
-## 🔗 Useful Links
+## Useful Links
 
-- 📊 Google Form (Quiz): https://docs.google.com/forms/d/e/1FAIpQLSdcY6t5cDol2-ZdwD8I1UCJPzjkJehM50vWcIzMRNwAg8oTFw/viewform?usp=publish-editor
+ Google Form (Quiz): https://docs.google.com/forms/d/e/1FAIpQLSdcY6t5cDol2-ZdwD8I1UCJPzjkJehM50vWcIzMRNwAg8oTFw/viewform?usp=publish-editor
 
 ---
 
-## 📚 Tools & Platforms Used
+## Tools & Platforms Used
 
 - Canva (Infographic Design)  
 - GitHub (Project Repository)  
@@ -61,7 +61,7 @@ Developed a case study on phishing and created a prevention checklist for online
 
 ---
 
-## ✅ Conclusion
+## Conclusion
 This project helped me understand the importance of digital literacy and how to use technology responsibly. It improved my skills in communication, online safety, and professional development.
 
 ---
